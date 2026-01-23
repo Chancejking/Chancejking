@@ -1,9 +1,9 @@
-# IT Security Continuing Education Portfolio
+# IT Continuing Education Portfolio
 
 ## About Me
-I am an IT professional actively transitioning into cybersecurity. I am continuously developing my skills through certifications, hands-on labs, and online training while exploring different IT security career paths.
+I am an IT professional focused on continuous learning and skill development across core IT domains. I am currently expanding my knowledge through certifications, hands-on labs, and self-directed training while exploring different IT career paths.
 
-My focus is on building strong fundamentals in security concepts, Microsoft technologies, and real-world defensive practices.
+My goal is to build strong technical fundamentals that support long-term growth within IT, including infrastructure, systems, and security-focused roles.
 
 ---
 
@@ -54,11 +54,11 @@ My focus is on building strong fundamentals in security concepts, Microsoft tech
 ---
 
 ## Career Focus
-I am currently exploring different IT Security paths, including:
-- SOC Analyst
-- Cybersecurity Analyst
-- Blue Team / Defensive Security
-- Cloud & Microsoft Security
+I am currently exploring multiple IT paths, including:
+- IT Support / Systems Administration
+- SOC or Cybersecurity Analyst
+- Microsoft and Cloud-focused roles
+- Infrastructure and Operations
 
 My goal is to specialize based on hands-on experience and continued learning.
 
