@@ -1,4 +1,4 @@
-# Chance King – IT Security Portfolio
+# Chance King – IT Portfolio
 
 Documenting my journey in IT Security through certifications, labs, and self-directed training.
 
