@@ -1,4 +1,8 @@
-## Hi there 👋
+# Chance King – IT Security Portfolio
+
+Documenting my journey in IT Security through certifications, labs, and self-directed training.
+
+🔗 View the live site: https://chancejking.github.io
 
 <!--
 **Chancejking/Chancejking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
